@@ -1,0 +1,6 @@
+disk.xfs
+*.xfs
+*.o
+*.exe
+inodeusertable.txt
+rootfile.txt
